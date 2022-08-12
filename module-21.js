@@ -36,7 +36,7 @@
   let tallestOne2 = stringReverse(heights2)
   console.log(tallestOne2)
 
-  0,1,1,2,3,5,8,12,21,34,55,89,144
+  // 0,1,1,2,3,5,8,12,21,34,55,89,144
 
  function fibo(n){
    let fibo = [];
